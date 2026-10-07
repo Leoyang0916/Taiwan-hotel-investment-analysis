@@ -53,7 +53,7 @@ These insights help evaluate market demand and identify potential opportunities 
 
 *  Report (PDF): [Download here](https://drive.google.com/file/d/19jTO3pbJREeaAcC1MNjsTCzAbd0ExNmj/view?usp=sharing)
 
-*  PBIX File: [Download here]([https://drive.google.com/file/d/1yJDe9MNlE0g6sdkmP47XMYk3C3rBBhoK/view?usp=drive_link](https://drive.google.com/file/d/1yJDe9MNlEOg6sdkmP47XMYk3C3rBBhoK/view?usp=drive_link))
+*  PBIX File: [Download here](https://drive.google.com/file/d/1yJDe9MNlEOg6sdkmP47XMYk3C3rBBhoK/view?usp=drive_link)
 
 ---
 
